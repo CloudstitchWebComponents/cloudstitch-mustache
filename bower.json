@@ -1,0 +1,29 @@
+{
+  "name": "cloudstitch-mustache",
+  "version": "1.0.5",
+  "authors": [
+    "Ted Benson <ted@cloudstitch.com>"
+  ],
+  "description": "An element wrapping a mustache template.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "handlebars",
+    "cloudstitch"
+  ],
+  "main": "cloudstitch-mustache.html",
+  "license": "BSD",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "cloudstitch-box": "CloudstitchWebComponents/cloudstitch-box",
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
