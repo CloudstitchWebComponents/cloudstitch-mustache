@@ -1,6 +1,6 @@
 {
   "name": "cloudstitch-mustache",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "authors": [
     "Ted Benson <ted@cloudstitch.com>"
   ],
@@ -19,7 +19,7 @@
     "/test/"
   ],
   "dependencies": {
-    "cloudstitch-box": "CloudstitchWebComponents/cloudstitch-box",
+    "cloudstitch-box": "CloudstitchWebComponents/cloudstitch-box#~1.1.4",
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {
